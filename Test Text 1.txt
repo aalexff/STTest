@@ -1,2 +1,3 @@
 Hi, testing Sourcetree, detection and commit testing.
 The brach testing line.
+This line test how the IU looks with the third branch.
